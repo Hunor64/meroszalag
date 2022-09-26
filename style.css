@@ -1,0 +1,12 @@
+div{
+    width: 50px;
+    border-right: 1pxsolid black;
+}
+
+div:nth-child(5n){
+    border-right: 2px solid blac;
+}
+
+div:nth-child(10n){
+    border-right: 4px solid red;
+}
